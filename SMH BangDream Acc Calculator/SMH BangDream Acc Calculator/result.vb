@@ -1,6 +1,6 @@
 ﻿Public Class frmResult
     Private Sub FrmResult_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        Me.Visible = True
+        Me.Show()
         Timer1.Interval = 2000
         Timer1.Start()
         If frmAccCalc.intPerfGrt = frmAccCalc.intCMax And frmAccCalc.intGreat = 0 Then
@@ -11,7 +11,7 @@
     End Sub
 
     Private Sub Timer1_Tick(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Timer1.Tick
-        Me.Visible = False
+        Me.Close()
         Timer1.Stop()
     End Sub
 End Class

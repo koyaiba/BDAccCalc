@@ -57,44 +57,42 @@
             Return bFlag
         End If
     End Function
-
     Private Sub TxtPerf_KeyPress(sender As Object, e As KeyPressEventArgs) Handles txtPerf.KeyPress
-        e.Handled = Not Char.IsNumber(e.KeyChar)
+        e.Handled = e.KeyChar <> ChrW(Keys.Back) And Not Char.IsLetter(e.KeyChar) And Not Char.IsDigit(e.KeyChar)
         If e.Handled Then
             Beep()
         End If
     End Sub
-
     Private Sub TxtGrt_KeyPress(sender As Object, e As KeyPressEventArgs) Handles txtGrt.KeyPress
-        e.Handled = Not Char.IsNumber(e.KeyChar)
+        e.Handled = e.KeyChar <> ChrW(Keys.Back) And Not Char.IsLetter(e.KeyChar) And Not Char.IsDigit(e.KeyChar)
         If e.Handled Then
             Beep()
         End If
     End Sub
 
     Private Sub TxtGood_KeyPress(sender As Object, e As KeyPressEventArgs) Handles txtGood.KeyPress
-        e.Handled = Not Char.IsNumber(e.KeyChar)
+        e.Handled = e.KeyChar <> ChrW(Keys.Back) And Not Char.IsLetter(e.KeyChar) And Not Char.IsDigit(e.KeyChar)
         If e.Handled Then
             Beep()
         End If
     End Sub
 
     Private Sub TxtBad_KeyPress(sender As Object, e As KeyPressEventArgs) Handles txtBad.KeyPress
-        e.Handled = Not Char.IsNumber(e.KeyChar)
+        e.Handled = e.KeyChar <> ChrW(Keys.Back) And Not Char.IsLetter(e.KeyChar) And Not Char.IsDigit(e.KeyChar)
         If e.Handled Then
             Beep()
         End If
     End Sub
 
     Private Sub TxtMiss_KeyPress(sender As Object, e As KeyPressEventArgs) Handles txtMiss.KeyPress
-        e.Handled = Not Char.IsNumber(e.KeyChar)
+        e.Handled = e.KeyChar <> ChrW(Keys.Back) And Not Char.IsLetter(e.KeyChar) And Not Char.IsDigit(e.KeyChar)
         If e.Handled Then
             Beep()
         End If
     End Sub
 
     Private Sub TxtCombo_KeyPress(sender As Object, e As KeyPressEventArgs) Handles txtCombo.KeyPress
-        e.Handled = Not Char.IsNumber(e.KeyChar)
+        e.Handled = e.KeyChar <> ChrW(Keys.Back) And Not Char.IsLetter(e.KeyChar) And Not Char.IsDigit(e.KeyChar)
         If e.Handled Then
             Beep()
         End If
@@ -108,7 +106,6 @@
             My.Computer.Audio.Stop()
         End If
     End Sub
-
     Private Sub BtnClear_Click(sender As Object, e As EventArgs) Handles btnClear.Click
         txtPerf.Text = ""
         txtGrt.Text = ""

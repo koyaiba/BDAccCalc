@@ -101,6 +101,7 @@ Partial Class frmAccCalc
         'txtPerf
         '
         Me.txtPerf.Location = New System.Drawing.Point(110, 35)
+        Me.txtPerf.MaxLength = 4
         Me.txtPerf.Name = "txtPerf"
         Me.txtPerf.Size = New System.Drawing.Size(113, 19)
         Me.txtPerf.TabIndex = 0
@@ -108,6 +109,7 @@ Partial Class frmAccCalc
         'txtGrt
         '
         Me.txtGrt.Location = New System.Drawing.Point(110, 71)
+        Me.txtGrt.MaxLength = 4
         Me.txtGrt.Name = "txtGrt"
         Me.txtGrt.Size = New System.Drawing.Size(113, 19)
         Me.txtGrt.TabIndex = 1
@@ -115,6 +117,7 @@ Partial Class frmAccCalc
         'txtGood
         '
         Me.txtGood.Location = New System.Drawing.Point(110, 106)
+        Me.txtGood.MaxLength = 4
         Me.txtGood.Name = "txtGood"
         Me.txtGood.Size = New System.Drawing.Size(113, 19)
         Me.txtGood.TabIndex = 2
@@ -122,6 +125,7 @@ Partial Class frmAccCalc
         'txtBad
         '
         Me.txtBad.Location = New System.Drawing.Point(110, 141)
+        Me.txtBad.MaxLength = 4
         Me.txtBad.Name = "txtBad"
         Me.txtBad.Size = New System.Drawing.Size(113, 19)
         Me.txtBad.TabIndex = 3
@@ -129,6 +133,7 @@ Partial Class frmAccCalc
         'txtMiss
         '
         Me.txtMiss.Location = New System.Drawing.Point(110, 178)
+        Me.txtMiss.MaxLength = 4
         Me.txtMiss.Name = "txtMiss"
         Me.txtMiss.Size = New System.Drawing.Size(113, 19)
         Me.txtMiss.TabIndex = 4
@@ -212,7 +217,7 @@ Partial Class frmAccCalc
         'AboutToolStripMenuItem
         '
         Me.AboutToolStripMenuItem.Name = "AboutToolStripMenuItem"
-        Me.AboutToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.AboutToolStripMenuItem.Size = New System.Drawing.Size(107, 22)
         Me.AboutToolStripMenuItem.Text = "About"
         '
         'Label9
@@ -228,6 +233,7 @@ Partial Class frmAccCalc
         'txtCombo
         '
         Me.txtCombo.Location = New System.Drawing.Point(108, 224)
+        Me.txtCombo.MaxLength = 4
         Me.txtCombo.Name = "txtCombo"
         Me.txtCombo.Size = New System.Drawing.Size(113, 19)
         Me.txtCombo.TabIndex = 5
