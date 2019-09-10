@@ -1,4 +1,4 @@
-# Bang Dream! Accuracy Calculator
+# Bang Dream! Girls Band Party Accuracy Calculator
 This is a small program that is used to calculate the gameplay accuracy and the score index of Bang Dream! Girls Band Party mobile phone social rhythm game.
 
 Please head to [here](https://github.com/xiaoren976/BDAccCalc/releases) to download the latest release.
