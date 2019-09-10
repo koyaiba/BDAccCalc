@@ -1,0 +1,17 @@
+C:\Users\jimmy\source\repos\SMH BangDream Acc Calculator\SMH BangDream Acc Calculator\bin\Debug\SMH BangDream Acc Calculator.exe
+C:\Users\jimmy\source\repos\SMH BangDream Acc Calculator\SMH BangDream Acc Calculator\bin\Debug\SMH BangDream Acc Calculator.pdb
+C:\Users\jimmy\source\repos\SMH BangDream Acc Calculator\SMH BangDream Acc Calculator\bin\Debug\SMH BangDream Acc Calculator.xml
+C:\Users\jimmy\source\repos\SMH BangDream Acc Calculator\SMH BangDream Acc Calculator\obj\Debug\SMH BangDream Acc Calculator.vbprojAssemblyReference.cache
+C:\Users\jimmy\source\repos\SMH BangDream Acc Calculator\SMH BangDream Acc Calculator\obj\Debug\SMH_BangDream_Acc_Calculator.frmAbout.resources
+C:\Users\jimmy\source\repos\SMH BangDream Acc Calculator\SMH BangDream Acc Calculator\obj\Debug\SMH_BangDream_Acc_Calculator.frmAccCalc.resources
+C:\Users\jimmy\source\repos\SMH BangDream Acc Calculator\SMH BangDream Acc Calculator\obj\Debug\SMH_BangDream_Acc_Calculator.Resources.resources
+C:\Users\jimmy\source\repos\SMH BangDream Acc Calculator\SMH BangDream Acc Calculator\obj\Debug\SMH BangDream Acc Calculator.vbproj.GenerateResource.cache
+C:\Users\jimmy\source\repos\SMH BangDream Acc Calculator\SMH BangDream Acc Calculator\obj\Debug\SMH BangDream Acc Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\jimmy\source\repos\SMH BangDream Acc Calculator\SMH BangDream Acc Calculator\obj\Debug\SMH BangDream Acc Calculator.exe
+C:\Users\jimmy\source\repos\SMH BangDream Acc Calculator\SMH BangDream Acc Calculator\obj\Debug\SMH BangDream Acc Calculator.xml
+C:\Users\jimmy\source\repos\SMH BangDream Acc Calculator\SMH BangDream Acc Calculator\obj\Debug\SMH BangDream Acc Calculator.pdb
+C:\Users\jimmy\source\repos\SMH BangDream Acc Calculator\SMH BangDream Acc Calculator\obj\Debug\SMH_BangDream_Acc_Calculator.frmResult.resources
+C:\Users\jimmy\source\repos\SMH BangDream Acc Calculator\SMH BangDream Acc Calculator\bin\Debug\SMH BangDream Acc Calculator.exe.manifest
+C:\Users\jimmy\source\repos\SMH BangDream Acc Calculator\SMH BangDream Acc Calculator\bin\Debug\SMH BangDream Acc Calculator.application
+C:\Users\jimmy\source\repos\SMH BangDream Acc Calculator\SMH BangDream Acc Calculator\obj\Debug\SMH BangDream Acc Calculator.exe.manifest
+C:\Users\jimmy\source\repos\SMH BangDream Acc Calculator\SMH BangDream Acc Calculator\obj\Debug\SMH BangDream Acc Calculator.application
